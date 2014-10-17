@@ -54,7 +54,7 @@
 *.csproj
 *.txt
 *.cache
-*..manifest
+*.manifest
 *.vshost.exe.manifest
 *TemporaryGeneratedFile_*
 AssemblyInfo.cs
