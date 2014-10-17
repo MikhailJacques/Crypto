@@ -43,6 +43,11 @@
 *.lo
 *.cd
 *.opensdf
+*.metagen
+*.pch
+*.bi
+*.res
+*.dat
 
 # MS Visual Studio 2012 C# debug files
 *.config
